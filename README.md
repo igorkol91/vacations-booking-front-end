@@ -50,7 +50,6 @@ Clone the repository with:
 ```
 git clone git@github.com:danmainah/vacations-booking-front-end.git
 ```
-or download [ZIP file](https://github.com/danmainah/vacations-booking-front-end/archive/refs/heads/dev.zip)
 
 ### Install
 To install all dependencies, run:
@@ -72,8 +71,7 @@ To open it in the browser, in the project directory, run:
  on your browser.
  
  ## IMPORTANT!!! 
- Since this repo contains the front-end app only,if you want to run the back-end localy please look for [the back-end app](https://github.com/mugberto/vacations-booking-back-end).
-  If you want to use your local server you will need to update urls in helper functions:
+ Since this repo contains the front-end app only, to run the back-end localy please look for [the back-end app](https://github.com/igorkol91/vacations-booking-back-end).
   
   **src/helpers**
   ```
@@ -84,7 +82,6 @@ To open it in the browser, in the project directory, run:
   postDestinationData.js
   postReservation.js
   ```
-  Make sure that instead of `https://booking-vacations.herokuapp.com` you put `http://localhost:3000`!
   
  You should be able to see the home page now.
   
@@ -98,6 +95,12 @@ To open it in the browser, in the project directory, run:
 
 
 ## 👤👤 Authors
+
+👤 **Igor Koloski**
+
+  - GitHub: [@igorkol91](https://github.com/igorkol91)
+  - Twitter: [@Destro49536502]
+  - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Aleksandar Ivezic**
 
@@ -116,12 +119,6 @@ To open it in the browser, in the project directory, run:
   -  Github: [@mugberto](https://github.com/mugberto)
   -  Twitter: [@mugberto](https://twitter.com/mugberto)
   -  Linkedin: [mugberto](https://www.linkedin.com/in/hubert-mugabo-23144b6a/)
-
-👤 **Igor Koloski**
-
-  - GitHub: [@igorkol91](https://github.com/igorkol91)
-  - Twitter: [@Destro49536502]
-  - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Daniel Maina**
 
